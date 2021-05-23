@@ -529,6 +529,13 @@ h6 {
     height: 120vh;
   }
 }
+.list-group {
+  list-style: decimal inside;
+}
+
+.list-group-item {
+  display: list-item;
+}
 
 /*--------------------------------------------------------------
 # Sections General
